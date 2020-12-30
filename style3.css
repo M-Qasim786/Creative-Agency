@@ -10,12 +10,7 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
-
-
-
 /*-----------navbar----------*/
-
-
 .navbar-brand{
     
     font-size: 25px;
@@ -42,13 +37,6 @@ html, body {
 .icons{
     margin-left: 35rem;
 }
-
-  
-  
-
-
-
-
 /*------------home-----------*/
 .home{
     background: url(images/9.jpg.jpg);
@@ -92,8 +80,6 @@ html, body {
 .home .header .btn:hover{
     background-color: rgb(43, 43, 119);
 }
-
-
 /*------------about-------*/
 .about{
     text-align: center;
@@ -144,9 +130,6 @@ html, body {
 .pro{
     background-color:  rgb(247, 236, 236);
 }
-
-
-
 .card{
     margin-top: 3rem;
    
@@ -162,7 +145,6 @@ html, body {
 .card p{
    font-size: 20px;
 }
-
 /*----------gallery------*/
 .gallery{
     text-align: center;
@@ -180,9 +162,7 @@ html, body {
 .foods{
     margin-top: 3.5rem;
 }
-
 /*----------testimonials------*/
-
 .testimonials{
     text-align: center;
     justify-content: center;
@@ -210,14 +190,11 @@ html, body {
     font-weight: bold;
     margin-top: 1rem;
 }
-
-
 .checked {
     color: orange;
     font-size: 25px;
     margin-top: .8rem;
 }
-
 .arrow{
    
     font-size: 45px;
@@ -235,8 +212,6 @@ html, body {
     height: 450px;
     margin-top: 8rem;
     background-attachment: fixed;
-   
-
 }
 .testi h2{
     margin-top: 10rem;
@@ -283,7 +258,6 @@ html, body {
     background-color: brown;
    
 }
-
 /*------------------contact us------------*/
 
 .contact-us{
@@ -348,12 +322,7 @@ html, body {
 .social a{
   margin: 1rem;
 }
- 
-
-
-
-
-/*------------social-icons--------*/
+ /*------------social-icons--------*/
 .social:hover {
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
